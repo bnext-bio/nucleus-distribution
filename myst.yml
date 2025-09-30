@@ -44,8 +44,7 @@ project:
           # - file: ./docs/collections/ants.md
       - title: Procceses (simple)
         children:
-          - file: 
-      - title: ./docs/processes-wrapper/processes-wrapper-main.md
+          - file: ./docs/processes-wrapper/processes-wrapper-main.md
         children:
           - file: ./docs/processes/processes-main.md
           # - file: ./docs/processes/cytosols.md
