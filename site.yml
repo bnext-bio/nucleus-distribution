@@ -11,17 +11,17 @@ site:
     - title: Docs
       # url: https://github.com/ProjectPythia/pythia-foundations/blob/main/myst.yml
       url: /docs/guides/getting-started
-    - title: Community
-      url: https://next.jupyterbook.org/about/community
+    - title: Developer Notes
+      url: https://devnotes.bnext.bio/
+    - title: Hub
+      url: https://bnext.bio/hub
     - title: Ecosystem
-      url: https://next.jupyterbook.org/about/ecosystem
-    - title: Blog
-      url: https://blog.jupyterbook.org
+      url: https://bnext.bio/nucleus
     - title: Help
       children:
-      - title: Ask a question ❓
-        url: https://nucleus-engineering.zulipchat.com/#narrow/channel/525993-general
-      - title: Report a bug 🐛
+      - title: Forum
+        url: https://nucleus.discourse.group/
+      - title: Zulip
         url: https://nucleus-engineering.zulipchat.com/#narrow/channel/525991-Zulip
   options:
     logo_url: https://bnext.bio/nucleus
