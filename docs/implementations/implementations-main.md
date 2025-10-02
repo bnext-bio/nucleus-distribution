@@ -1,6 +1,8 @@
 ---
-title: Overview
+title: Implementations
 ---
+
+# Overview
 
 Implementations are examples of combinations of useful Processes and Modules. Each implementation will contain the following information:
 
