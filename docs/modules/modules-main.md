@@ -18,12 +18,14 @@ A Module is a useful biochemical formulation, often incorporating a genetically 
 
 ## Modules validated in cytosols
 
-- [Module Template](https://antonrmolina.github.io/nucleus-distribution-pages/docs/modules/module-template/specification-module-template)
+<!-- - [Module Template](https://antonrmolina.github.io/nucleus-distribution-pages/docs/modules/module-template/specification-module-template) -->
+- [Module Template](./module-template/specification-Module_Template.md)
 - Control: ClpXP
 
 ## Modules validated in cells
 
-- [Reporter: plamGFP](https://antonrmolina.github.io/nucleus-distribution-pages/docs/modules/module-plamgfp/specification-module-plamgfp)
+<!-- - [Reporter: plamGFP](https://antonrmolina.github.io/nucleus-distribution-pages/docs/modules/module-plamgfp/specification-module-plamgfp) -->
+- [Reporter: plamGFP](./module-plamGFP/specification-Module_plamGFP.md)
 - Reporter: deGFP
 - Reporter: mScarlett
 - Detector: aTc

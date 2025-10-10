@@ -2,7 +2,6 @@
 version: 1
 extends:
   - ./site.yml
-  - ./docs.yml
 project:
   id: 42209306-ce58-4005-9c73-983816b73d3c
   title: Nucleus Distribution
@@ -16,33 +15,48 @@ project:
     - file: intro.md
     - title: Get Started
       children:
-        - file: ./docs/guides/getting-started.md
-        - file: ./docs/guides/roadmap.md
-        - file: ./docs/guides/contribute.md
-        - file: ./docs/guides/first-guide.md
+        - file: ./start/getting-started.md
+        - file: ./start/roadmap.md
+        - file: ./start/contribute.md
+        - file: ./start/first-guide.md
     - title: Docs
       children:
         - file: ./docs/modules/modules-main.md
+          children:
+           - file: ./docs/modules/module-plamGFP/specification-Module_plamGFP.md
+             hidden: true
+           - file: ./docs/modules/module-template/specification-Module_Template.md
+             hidden: true
         - file: ./docs/processes/processes-main.md
           children:
-           - file: ./docs/processes/list/make-ribosomes/process-Make_ribosomes.md
+           - file: ./docs/processes/make-ribosomes/process-Make_ribosomes.md
              hidden: true
-           - file: ./docs/processes/list/make-trna/process-Make_tRNAs.md
+           - file: ./docs/processes/make-trna/process-Make_tRNAs.md
              hidden: true 
-           - file: ./docs/processes/list/make-test/process-Make_test.md
+           - file: ./docs/processes/make-test/process-Make_test.md
              hidden: true
         - file: ./docs/implementations/implementations-main.md
+          children:
+           - file: ./docs/implementations/implementation-first/implementation-first.md
+             hidden: true
+           - file: ./docs/implementations/implementation-template/implementation-template.md
+             hidden: true
     - title: Guides
       children:
-        - file: ./docs/guides/developer-handbook.md
-        - file: ./docs/guides/contribution-guide.md
-        - file: ./docs/guides/tutorials.md
+        - file: ./guides/developer-handbook.md
+        - file: ./guides/contribution-guide.md
+        - file: ./guides/tutorials.md
+          children:
+           - file: ./guides/nucleus-hub/nucleus-hub.md
+             hidden: true
+           - file: ./guides/developer-notes/developer-notes.md
+             hidden: true
     - title: About
       children:
-        - file: ./docs/guides/open-science.md
-        - file: ./docs/guides/license.md
-        - file: ./docs/about/faqs.md
-        - file: ./docs/about/release-notes.md
+        - file: ./about/open-science.md
+        - file: ./about/license.md
+        - file: ./about/faqs.md
+        - file: ./about/release-notes.md
           children:
            - file: ./docs/about/release-notes/release-notes-v-0-4-0.md
 

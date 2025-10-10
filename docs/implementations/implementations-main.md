@@ -21,6 +21,8 @@ Implementations typically progress from cytosol-level to cell-level functionalit
 
 ## Cytosols
 
+- [Implementation Template](./implementation-template/implementation-template.md)
+- [Implementation First](./implementation-first/implementation-first.md)
 - plamGFP
 - MTHFS
 
