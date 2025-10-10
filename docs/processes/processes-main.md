@@ -4,8 +4,6 @@ title: Processes
 
 # Overview
 
-I would like to reference this [page](./resources/process-docs/my-process-doc.md)
-
 Processes convert Modules into something useful. A Process often coincides with the simplest possible Implementation, typyically using the plamGFP Reporter Module. For this reason, we often refer to these as ["Hello, World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) implementations. Alternatively, a process will include a quality control and [unit tests](10.1109/MAHC.1983.10102) A Process will contain the following information:
 
 - Contents of an implementation
@@ -26,12 +24,14 @@ Flow chart for building Base Cytosol and its modification through the addition o
 
 - Make Amino Acid Mix
 - Make Small Molecule Mix
-- [Make tRNAs](https://antonrmolina.github.io/nucleus-distribution-pages/docs/processes/make-trna/process-make-trnas)
+<!-- - [Make tRNAs](https://antonrmolina.github.io/nucleus-distribution-pages/docs/processes/make-trna/process-make-trnas) -->
+- [Make tRNAs](./list/make-trna/process-Make_tRNAs.md)
 - Make Energy Mix
 
 - Make Protein mix (1-pot)
 - Make Protein mix (36-pot)
-- [Make Ribosomes](https://antonrmolina.github.io/nucleus-distribution-pages/docs/processes/make-ribosomes/process-make-ribosomes)
+<!-- - [Make Ribosomes](https://antonrmolina.github.io/nucleus-distribution-pages/docs/processes/make-ribosomes/process-make-ribosomes) -->
+- [Make Ribosomes](./list/make-ribosomes/process-Make_ribosomes.md)
 
 - Make Base cytosol
 
