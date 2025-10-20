@@ -25,13 +25,13 @@ Flow chart for building Base Cytosol and its modification through the addition o
 - Make Amino Acid Mix
 - Make Small Molecule Mix
 <!-- - [Make tRNAs](https://antonrmolina.github.io/nucleus-distribution-pages/docs/processes/make-trna/process-make-trnas) -->
-- [Make tRNAs](./list/make-trna/process-Make_tRNAs.md)
+- [Make tRNAs](./make-trna/process-Make_tRNAs.md)
 - Make Energy Mix
 
 - Make Protein mix (1-pot)
 - Make Protein mix (36-pot)
 <!-- - [Make Ribosomes](https://antonrmolina.github.io/nucleus-distribution-pages/docs/processes/make-ribosomes/process-make-ribosomes) -->
-- [Make Ribosomes](./list/make-ribosomes/process-Make_ribosomes.md)
+- [Make Ribosomes](./make-ribosomes/process-Make_ribosomes.md)
 
 - Make Base cytosol
 
