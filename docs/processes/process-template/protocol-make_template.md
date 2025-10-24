@@ -1,9 +1,9 @@
 ---
-title: Make Trnas
+title: Make Template
 exports:
   - format: typst
     template: https://github.com/antonrmolina/nucleus-typst-test/archive/refs/heads/main.zip
-    output: protocol-make_trnas.pdf
+    output: protocol-make_template.pdf
 ---
 
 # Protocol
@@ -134,5 +134,5 @@ exports:
 
 ## Storage
 
-- [] Aliquot your tRNAs to reduce freeze / thaw cycles and store at -80C.
+- [ ] Aliquot your tRNAs to reduce freeze / thaw cycles and store at -80C.
 

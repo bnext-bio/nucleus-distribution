@@ -36,7 +36,7 @@ Please read this section carefully. It contains important notes, resources, and 
 
 :::{card}
 :header: **TODO: Bill of Materials**
-{button}`download <protocol-Make_tRNAs.pdf>`
+{button}`download <protocol-make_trnas.pdf>`
 :::
 
 ::::
@@ -118,15 +118,13 @@ Please read this section carefully. It contains important notes, resources, and 
 
 # Protocol
 
-## Make Small Molecule Stock Solutions
+- **Prepare Folinic Acid Stock (5 mM).**
+  - [ ]  Weigh 12.5 mg folinic acid.
+  - [ ]  Dissolve to a final volume of 4.89 mL.
+  - [ ]  Aliquot and freeze at -20C.
 
-**Prepare Folinic Acid Stock (5 mM).**
-- [ ]  Weigh 12.5 mg folinic acid.
-- [ ]  Dissolve to a final volume of 4.89 mL.
-- [ ]  Aliquot and freeze at -20C.
-
-**Make All Other Stock Solutions.**
-- [ ] Use the table below to prepare the specified stock solutions:
+- **Make All Other Stock Solutions.**
+  - [ ] Use the table below to prepare the specified stock solutions: 
 
 :::{table}
 :label: tbl:stock-solutions
@@ -145,9 +143,9 @@ Please read this section carefully. It contains important notes, resources, and 
 
 :::
 
-<!-- **Assemble Small Molecule Mix Components.** -->
-## Assemble Small Molecule Mix.
-- [ ] Use the table below to combine the previously prepared stock solutions into Small Molecule Mix:
+<!-- ## Assemble Small Molecule Mix. -->
+- **Assemble Small Molecule Mix Components.**
+  - [ ] Use the table below to combine the previously prepared stock solutions into Small Molecule Mix:
 
 :::{table}
 :label: tlb:assembly

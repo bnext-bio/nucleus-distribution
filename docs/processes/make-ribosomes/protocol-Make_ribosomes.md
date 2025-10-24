@@ -3,12 +3,13 @@ title: Make Ribosomes
 exports:
   - format: typst
     template: https://github.com/antonrmolina/nucleus-typst-test/archive/refs/heads/main.zip
-    output: protocol-Make_ribosomes.pdf
+    output: protocol-make_ribosomes.pdf
 ---
 
 # Protocol
 
 ## Cell culture
+
 
 - **Prepare overnight cultures.**
     - [ ] Add 5 mL Luria Broth (LB) under sterile conditions to two (2) 14 mL culture tubes.
@@ -38,6 +39,8 @@ exports:
 
 ## FPLC purification
         
+:::{table}
+:::
 
 - **Set-up.**
     - [ ]  Connect the two Butyl column (5 mL) in tandem, totaling a column volume (CV) of 10 mL.
@@ -69,6 +72,7 @@ exports:
 - [ ]  Prepare another polycarbonate ultracentrifuge bottle as a balance. Measure 35 mL of Cushion Buffer, then add Ribosome Buffer until the balance mass is within 0.1 g of the sample bottle mass. **Make sure all bottles are well balanced (Δm ≤ 0.1 g) and have no cracks!**
 - [ ]  Pellet ribosomes by ultracentrifugation at 100 000 rcf / 4C / 16 hrs. A translucent ribosome pellet will be formed at the bottom of the centrifuge bottle. It may be difficult to see.
 - [ ]  Discard the supernatant. Carefully, wash each pellet with 0.5 mL cold ribosome buffer. Repeat this step twice.
+
 
 - [ ]  Resuspend the clear pellets in 100 uL of Ribosome Buffer on ice using a magnetic stir bar (3 mm diameter, 10 mm length) on a magnetic stirrer set at the lowest possible speed. Collect resuspended ribosomes.
 - [ ]  Wash tubes with an additional 50 uL of Ribosome Buffer to resuspend any remaining ribosomes.
