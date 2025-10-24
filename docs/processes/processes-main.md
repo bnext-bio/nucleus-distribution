@@ -23,7 +23,7 @@ Flow chart for building Base Cytosol and its modification through the addition o
 :::
 
 - Make Amino Acid Mix
-- Make Small Molecule Mix
+- [Make Small Molecule Mix](./make-small-molecule-mix/process-Make_Small_Molecule_Mix.md)
 <!-- - [Make tRNAs](https://antonrmolina.github.io/nucleus-distribution-pages/docs/processes/make-trna/process-make-trnas) -->
 - [Make tRNAs](./make-trna/process-Make_tRNAs.md)
 - Make Energy Mix
