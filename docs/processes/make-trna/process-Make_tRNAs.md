@@ -53,8 +53,9 @@ Please read this section carefully. It contains important notes, resources, and 
 :label: tbl:composition-table
 :align: center
 
-TODO
-<!-- | **Reagent** | **Concentration in Energy Mix (mM)** | **Concentration in Final Reaction (mM)** | -->
+| **Component** | **Stock Concentration** | **Reaction Concentation** |
+| --- | --- | --- |
+| tRNA | 35 $\mu$g/$\mu$L (10x) | 3.5 $\mu$g/$\mu$L |
 
 :::
 ::::

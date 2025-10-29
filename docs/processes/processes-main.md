@@ -35,7 +35,7 @@ Flow chart for building Base Cytosol and its modification through the addition o
 <!-- - [Make Ribosomes](https://antonrmolina.github.io/nucleus-distribution-pages/docs/processes/make-ribosomes/process-make-ribosomes) -->
 - [Make Ribosomes](./make-ribosomes/process-make_ribosomes.md)
 
-- Make Base cytosol
+- [Assemble Base Cytosol from Kit](./assemble-cytosol-from-kit/process-assemble_cytosol_from_kit.md)
 
 **Quality Control**
 

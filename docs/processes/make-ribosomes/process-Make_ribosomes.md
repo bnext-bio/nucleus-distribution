@@ -23,7 +23,7 @@ Please read this section carefully. It contains important notes, resources, and 
 ::::{grid} 1 1 1 3
 
 :::{card}
-:header: **TODO: Lab-ready Protocol**
+:header: **Lab-ready Protocol**
 :algin: center
 
 {button}`download <protocol-make_ribosomes.pdf>`
@@ -51,8 +51,9 @@ Please read this section carefully. It contains important notes, resources, and 
 :label: tbl:composition-table
 :align: center
 
-TODO
-<!-- | **Reagent** | **Concentration in Energy Mix (mM)** | **Concentration in Final Reaction (mM)** | -->
+| **Component** | **Stock Concentration** | **Reaction Concentation** |
+| --- | --- | --- |
+| Ribosomes | 10 $\mu$M (5.55x) | 1.8 $\mu$M |
 
 :::
 ::::

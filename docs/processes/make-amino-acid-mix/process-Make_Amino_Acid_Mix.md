@@ -23,7 +23,7 @@ Please read this section carefully. It contains important notes, resources, and 
 ::::{grid} 1 1 1 3
 
 :::{card}
-:header: **TODO: Lab-ready Protocol**
+:header: **Lab-ready Protocol**
 :algin: center
 
 {button}`download <protocol-make_amino_acid_mix.pdf>`

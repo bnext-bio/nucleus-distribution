@@ -1,4 +1,7 @@
----
+
+
+
+<!-- ---
 title: Contribution Guidelines
 ---
 
@@ -22,4 +25,4 @@ Requirement levels use key words as described in [RFC 2119](https://datatracker.
 
 - Question: what is the equivalent of "Data SHOULD be collected in reference to an appropriate analytical standard"
 - Question: how much data should be included? 
-- Data should be processed using CDK
+- Data should be processed using CDK -->

@@ -1,5 +1,5 @@
 ---
-title: Make Template
+title: Assemble Cytosol From Kit
 ---
 
 # Overview
@@ -20,7 +20,7 @@ Please read this section carefully. It contains important notes, resources, and 
 :::{note} Notes
 :class: dropdown
 
-- ‼️All reagents and materials must be prepared RNase-free. Use RNaseZap or 10% bleach to decontaminate plastic and glassware and rinse with nuclease-free water. We find ultrapure water (18.2 MOhm) is often sufficient for RNase-free work.
+- None
 
 :::
 
@@ -57,20 +57,17 @@ Please read this section carefully. It contains important notes, resources, and 
 :label: tbl:composition-table
 :align: center
 
-| **Reagent** | **Concentration in Energy Mix (mM)** | **Concentration in Final Reaction (mM)** |
-| --- | --- | --- |
-| HEPES-KOH (pH 7.6) | 125 | 50 |
-| Potassium glutamate | 250 | 100 |
-| Magnesium acetate | 18.75 | 7.5 |
-| rATP  | 5 | 2 |
-| rGTP | 5 | 2 |
-| rCTP | 2.5 | 1 |
-| rUTP | 2.5 | 1 |
-| Amino Acids (each) | 0.75 | 0.3 |
-| Creatine phosphate | 50 | 20 |
-| Folinic acid | 0.05 | 0.02 |
-| Spermidine | 5 | 2 |
-| TCEP | 2.5 | 1 |
+| **Component** | **Volume per Reaction ($\mu$L)** |
+| --- | --- |
+| Small Molecule Mix | 3.0 |
+| tRNA | 1.0 |
+| Protein Mix | 1.2 |
+| Ribosomes | 1.8 |
+| RNase Inhibitor | 0.5 |
+| `pT7-plamGFP` | 0.5 |
+| User Additives | X |
+| Nuclease Free Water | 2.0 - X |
+| Total | 10 |
 
 :::
 ::::
@@ -89,24 +86,24 @@ Please read this section carefully. It contains important notes, resources, and 
 :label: tbl:critical-materials
 :align: center
 
-| Reagent | **Product Name** | **Manufacturer** | **Part #** | **Price** | Storage Conditions | **Link** |
+- None
+<!-- | Reagent | **Product Name** | **Manufacturer** | **Part #** | **Price** | Storage Conditions | **Link** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Amino Acids | L-Amino acids, analytical standard | Sigma-Aldrich | LAA21-1KT | $558 | 1C to 4C | [[link](https://www.sigmaaldrich.com/US/en/product/sial/laa21)] |
-| Low Bind Protein Tubes | X | X | X | X | X | X |
+| Low Bind Protein Tubes | X | X | X | X | X | X | -->
 
 ::::
 
-::::{important} Genetically Encoded Components
+::::{admonition} Genetically Encoded Components
 :class: dropdown
 
 :::{table}
 :label: tbl:critical-materials
 :align: center
 
-| Reagent | **Product Name** | **Manufacturer** | **Part #** | **Price** | Storage Conditions | **Link** |
-| --- | --- | --- | --- | --- | --- | --- |
-| Amino Acids | L-Amino acids, analytical standard | Sigma-Aldrich | LAA21-1KT | $558 | 1C to 4C | [[link](https://www.sigmaaldrich.com/US/en/product/sial/laa21)] |
-| Low Bind Protein Tubes | X | X | X | X | X | X |
+| Name | Type | Specification |
+| --- | --- | --- |
+| `pT7-plamGFP` | Reporter | [pT7-plamGFP](https://github.com/bnext-bio/nucleus/blob/main/dna-distribution/v0.1.0-001/plamGFP-PURE.gb) |
 
 ::::
 
