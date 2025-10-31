@@ -54,7 +54,7 @@ Here are a collection of processes that useful for making and working with Cells
 Flow chart for building Base Cell and its modification through the addition of Modules.
 :::
 
-- Make Base Cell
+- [Make Base Cell](./assemble-base-cell/process-make_base_cell.md)
 
 **Quality Control**
 
