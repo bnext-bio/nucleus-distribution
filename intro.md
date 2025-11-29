@@ -7,11 +7,20 @@ site:
 
 # Overview
 
-The Nucleus Distribution is an open source, integrated platform for synthetic cell builders maintained by b.next. It provides validated protocols, genetic constructs, software tools, datasets, and biological materials—everything needed to build synthetic cells using the PURE system. The Distribution is designed for interoperability, enabling researchers to build on shared components and scale their work from concept to production.
+The Nucleus Distribution allows you to implement an open standard for constructing synthetic cells based on Nucleus Cytosol, an open forumulation version of the PURE system. 
+
+The Distribution includes validated protocols, genetic constructs, software tools, datasets, and biological materials that are designed to work, and work together. All components of the Distribution are open source, allowing anyone to use and modify the components. As an open source project, the Distribution enabling the collaborative development of synthetic cells of increasing complexity. 
 
 The Nucleus Distribution is part of the broader Nucleus Ecosystem, which also includes Nucleus Hub (a collaborative workspace for data sharing and analysis) and Nucleus Developer Notes (a platform for rapidly sharing research contributions that feed back into the Distribution).
 
-The seventh release of the Nucleus Distribution (v0.5.0) is now available. Check the [release notes](../about/release-notes.md) to learn about the latest updates. The Distribution is supported by the Astera Institute, Sloan Foundation, and Caltech.
+<!-- is an open source, integrated platform for synthetic cell builders maintained by b.next. -->
+
+
+<!-- The Nucleus Distribution is an open source, integrated platform for synthetic cell builders maintained by b.next. It provides validated protocols, genetic constructs, software tools, datasets, and biological materials—everything needed to build synthetic cells using the PURE system. The Distribution is designed for interoperability, enabling researchers to build on shared components and scale their work from concept to production.
+
+The Nucleus Distribution is part of the broader Nucleus Ecosystem, which also includes Nucleus Hub (a collaborative workspace for data sharing and analysis) and Nucleus Developer Notes (a platform for rapidly sharing research contributions that feed back into the Distribution). -->
+
+<!-- The seventh release of the Nucleus Distribution (v0.5.0) is now available. Check the [release notes](../about/release-notes.md) to learn about the latest updates. The Distribution is supported by the Astera Institute, Sloan Foundation, and Caltech. -->
 
 # Structure of the Documentation
 
@@ -55,6 +64,8 @@ Implementations are useful combinations of Modules and Processes.
 :::::
 
 ## Guides
+
+TODO
 
 <!-- ## Get started
 
