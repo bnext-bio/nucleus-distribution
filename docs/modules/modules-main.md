@@ -33,11 +33,11 @@ Module Specifications contain the following information:
 | Membrane | POPC | PURExpress Cell | Distribution |
 |  | POPC/Chol | PURExpress Cell | Distribution |
 |  | EggPC | PURExpress Cell | Distribution |
-| Membrane Pore | alpha-Hemolysin | PURExpress Cell  | Distribution |
-|  | Cx43 | PURExpress Cell | DevNote |
+| Membrane Pore | [alpha-Hemolysin](./membrane-pore-ahly/spec.md) | PURExpress Cell  | Distribution |
+|  | [Cx43](./membrane-pore-cx43/spec.md) | PURExpress Cell | DevNote |
 | Detector | [tetR-aTc](./detector-tetr_atc/spec.md) | PURExpress Cell | Distribution |
 | Emitter | [IV-HSL](./emitter-ivhsl/spec.md) | PURExpress Cell | Distribution |
-| Energy | PPK2 | PURExpress Cell | DevNote |
+| Energy | [PPK](./enery-ppk/spec.md) | PURExpress Cell | DevNote |
 | Control | ClpXP | PURExpress Cytosol | DevNote* |
 | Chaperone | SecYEG | - | Planned |
 

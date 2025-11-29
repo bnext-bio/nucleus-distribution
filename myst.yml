@@ -42,6 +42,12 @@ project:
              hidden: true
         - file: ./docs/modules/modules-main.md
           children:
+           - file: ./docs/modules/membrane-pore-cx43/spec.md
+             hidden: true
+           - file: ./docs/modules/energy-ppk/spec.md
+             hidden: true
+           - file: ./docs/modules/membrane-pore-ahly/spec.md
+             hidden: true
            - file: ./docs/modules/reporter-plamgfp/spec.md
              hidden: true
            - file: ./docs/modules/reporter-degfp/spec.md
