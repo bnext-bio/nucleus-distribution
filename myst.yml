@@ -22,12 +22,6 @@ project:
     - title: Protocols
       children:
         - file: ./docs/dna-distro.md
-        - file: ./docs/modules/modules-main.md
-          children:
-           - file: ./docs/modules/module-plamGFP/specification-Module_plamGFP.md
-             hidden: true
-           - file: ./docs/modules/module-template/specification-Module_Template.md
-             hidden: true
         - file: ./docs/processes/processes-main.md
           children:
            - file: ./docs/processes/assemble-base-cell/process-make_base_cell.md
@@ -45,6 +39,12 @@ project:
            - file: ./docs/processes/assemble-cytosol-from-kit/process-assemble_cytosol_from_kit.md
              hidden: true 
            - file: ./docs/processes/make-test/process-make_test.md
+             hidden: true
+        - file: ./docs/modules/modules-main.md
+          children:
+           - file: ./docs/modules/module-plamGFP/specification-Module_plamGFP.md
+             hidden: true
+           - file: ./docs/modules/module-template/specification-Module_Template.md
              hidden: true
         - file: ./docs/implementations/implementations-main.md
           children:
