@@ -42,9 +42,15 @@ project:
              hidden: true
         - file: ./docs/modules/modules-main.md
           children:
-           - file: ./docs/modules/module-plamGFP/specification-Module_plamGFP.md
+           - file: ./docs/modules/reporter-plamgfp/spec.md
              hidden: true
-           - file: ./docs/modules/module-template/specification-Module_Template.md
+           - file: ./docs/modules/reporter-degfp/spec.md
+             hidden: true
+           - file: ./docs/modules/detector-tetr_atc/spec.md
+             hidden: true
+           - file: ./docs/modules/emitter-ivhsl/spec.md
+             hidden: true
+           - file: ./docs/modules/module-template/spec.md
              hidden: true
         - file: ./docs/implementations/implementations-main.md
           children:

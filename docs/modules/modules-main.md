@@ -28,15 +28,15 @@ Module Specifications contain the following information:
 
 | Module Class | Module Implementation | Base Module | Status |
 | --- | --- | --- | --- |
-| Reporter | plamGFP | PURExpress Cell | [Distribution](./module-plamGFP/specification-Module_plamGFP.md) |
-|  | deGFP | **Nucleus Cytosol;** PURExpress Cell | Distribution |
+| Reporter | [plamGFP](./reporter-plamgfp/spec.md) | PURExpress Cell | Distribution |
+|  | [deGFP](./reporter-degfp/spec.md) | **Nucleus Cytosol;** PURExpress Cell | Distribution |
 | Membrane | POPC | PURExpress Cell | Distribution |
 |  | POPC/Chol | PURExpress Cell | Distribution |
 |  | EggPC | PURExpress Cell | Distribution |
 | Membrane Pore | alpha-Hemolysin | PURExpress Cell  | Distribution |
 |  | Cx43 | PURExpress Cell | DevNote |
-| Detector | tetR-aTc | PURExpress Cell | Distribution |
-| Emitter | IV-HSL | PURExpress Cell | Distribution |
+| Detector | [tetR-aTc](./detector-tetr_atc/spec.md) | PURExpress Cell | Distribution |
+| Emitter | [IV-HSL](./emitter-ivhsl/spec.md) | PURExpress Cell | Distribution |
 | Energy | PPK2 | PURExpress Cell | DevNote |
 | Control | ClpXP | PURExpress Cytosol | DevNote* |
 | Chaperone | SecYEG | - | Planned |
