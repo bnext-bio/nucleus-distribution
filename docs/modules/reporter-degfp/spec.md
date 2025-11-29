@@ -1,5 +1,6 @@
 ---
-title: "Module Specification (Module Name)"
+title: "Module Specification"
+subtitle: "Reporter: deGFP"
 site:
     hide-toc: true
     numbered_references: false
@@ -7,38 +8,97 @@ site:
 
 ## Overview
 
-Mitochondria consectetur adipiscing phylum, sed do ribosomes tempor incididunt ut chlorophyll et dolore magna cytoplasm. Ut enim ad minim chromosome, quis nostrud photosynthesis ullamco laboris nisi ut enzyme aliquip ex ea commodo peptide. Duis aute nucleotide in reprehenderit in voluptate vesicle esse cillum genome fugiat nulla pariatur.
+The deGFP Reporter Module produced deGFP, a green fluorescent protein.
 
 ### Schematic
 
-::::{aside}
-:::{dropdown} TODO
-
-What are good guidelines for a schematic representations of different modules?
-:::
-::::
-
 :::{figure} schematic.png
+:width: 40%
+:align: center
 
-This is a schematic of the module.
+A schematic representation of PURE converting template DNA into a fluorescent reporter.
 :::
 
 ### Designs
 
-::::{aside}
-:::{dropdown} TODO
+| **Name** | **Length (bp)** | **File** |
+| --- | --- | --- |
+| `pOpen-pT7-deGFP` | 2500 | [path-to-design-01.gb](https://github.com/bnext-bio/nucleus/blob/main/components/modules/detector/lacI.gb#L56-L66) |
 
-What should belong in this table?
+### Reference Compositions
+
+:::::{tab-set}
+
+::::{tab-item} Cytosol
+:::{table} This composition was evaluated in the DevNote by [](https://doi.org/10.63765/fppr8928)
+:label: RC
+:align: center
+| **Component** | **Stock Concentration** | **Final Concentration in Reaction** | 
+| --- | --- | --- |
+| PMix | 15 mg/mL | 1.8 mg/mL
+| SMix | 4X | 1X |
+| Ribosomes | 10 $\mu$M | 1.8 $\mu$M |
+| tRNA | *varies* | 3.5 mg/mL |
+| pOpen-deGFP | *varies* | 3 nM |
+| Magnesium acetate | 200 mM | *varies* |
 :::
 ::::
 
-| **Name** | **Length (bp)** | **File** |
+::::{tab-item} Cells
+:::{table} This composition was evaluated in the DevNote by [](https://doi.org/10.63765/fppr8928)
+:label: RC
+:align: center
+| **Component** | **Stock Concentration** | **Final Concentration in Reaction** | 
 | --- | --- | --- |
-| `pOpen-pT7-ClpP-CHis` | 2500 | [path-to-design-01.gb](https://github.com/bnext-bio/nucleus/blob/main/components/modules/detector/lacI.gb#L56-L66) |
-| `pOpen-pT7-ClpX-linker-CHis` | 1699 | path-to-design-01.gb |
-| `pET28a-ClpP-CHis` | 3145 | path-to-design-01.gb |
+| PMix | 15 mg/mL | 1.8 mg/mL
+| SMix | 4X | 1X |
+| Ribosomes | 10 $\mu$M | 1.8 $\mu$M |
+| tRNA | *varies* | 3.5 mg/mL |
+| pOpen-deGFP | *varies* | 3 nM |
+| Magnesium acetate | 200 mM | *varies* |
+:::
+::::
 
-### Compatible processes
+:::::
+
+### Expected Behavior
+
+::::{tab-set}
+:::{tab-item} Cytosols - Kinetics
+![](xref:devnote-01#fig:kinetics-exp1)
+:::
+
+:::{tab-item} Cytosols - Endpoint
+![](xref:devnote-01#fig:endpoint-exp1)
+:::
+::::
+
+### Protocols
+
+::::{grid} 1 1 1 2
+
+:::{card}
+:header: **Cytosols**
+:footer: *Implemented using Nucleus Cytosol v0.5*
+{button}`Download <roles.md>`
+:::
+
+:::{card}
+:header: **Cells**
+:footer: *Implemented using Nucleus Cytosol v0.5*
+:align: center
+{button}`Download <roles.md>`
+:::
+
+::::
+
+### Supporting DevNotes
+
+
+
+
+
+<!-- ### Compatible processes
 
 My reference table (this is on same page): {ref}`spec01:tbl-36pot-formulation`
 My reference table (this is on different page): [ref](xref#this-tbl-36pot-formulation)
@@ -99,4 +159,4 @@ For GFP the distinction between process and instances feels overwrought or at le
 
 I want to figure out how to hide the list of references from being auto generated at the bottom.
 :::
-::::
+:::: -->
