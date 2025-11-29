@@ -19,7 +19,7 @@ project:
         - file: ./start/roadmap.md
         - file: ./start/contribute.md
         - file: ./start/first-guide.md
-    - title: Docs
+    - title: Protocols
       children:
         - file: ./docs/dna-distro.md
         - file: ./docs/modules/modules-main.md
