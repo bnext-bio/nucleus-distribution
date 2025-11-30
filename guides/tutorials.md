@@ -22,5 +22,5 @@ Tutorials are a type of Guide that tie together documentation into useful groups
 
 <!-- - [Developer Notes](https://antonrmolina.github.io/nucleus-distribution-pages/docs/tutorials/devnotes/developer-notes) -->
 - [Developer Notes](./developer-notes/developer-notes.md)
-- Writing your first Developer Note
-- [Useful Tips and Tricks for Developer Notes](developer-note-syntax.md)
+- [Writing your first Developer Note](devnote-tutorial.md)
+- [Reference: useful syntax patterns for DevNotes](developer-note-syntax.md)
