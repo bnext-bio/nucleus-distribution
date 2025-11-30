@@ -13,10 +13,9 @@ The sixth stable release of the Nucleus Distribution (v0.4.0) is now available. 
 <!-- 
 subtitle: <span style="color:#006837">Learn how to navigate this documentation and build your first cytosols and cells.</span> -->
 
+# Todo: This should probably be the quick start guide that describes how to get started...
+
 # Overview
-
-
-
 
 The Nucleus Distribution is an open source, integrated platform for synthetic cell builders maintained by b.next. It provides validated protocols, genetic constructs, software tools, datasets, and biological materials—everything needed to build synthetic cells using the PURE system. The Distribution is designed for interoperability, enabling researchers to build on shared components and scale their work from concept to production.
 
