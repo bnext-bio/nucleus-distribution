@@ -63,3 +63,6 @@ Figure: This is my caption
 
 
 # Review and submission
+
+- Preview your DevNote
+- Submit your DevNote
