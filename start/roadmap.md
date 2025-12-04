@@ -17,7 +17,7 @@ We are actively developing modules to extend the functionality of synthetic cell
 
 ## Molecular sensing and response
 
-An incredible power of cells is their ability to sense and respond to the environment with molecular precision. As engineers we would love to adapt, combine, and deploy these capabilities, but modifying natural systems is challenging—we don’t understand much of the biology and, even if we did, each system is unique.
+An incredible power of synthetic cells is their ability to sense and respond to the environment with molecular precision. As engineers we would love to adapt, combine, and deploy these capabilities, but modifying natural systems is challenging—we don’t understand much of the biology and, even if we did, each system is unique.
 
 Synthetic cells offer a defined context for developing sensors and responses into modular, composable systems, and can greatly expand what is possible to design and deploy with biology. For example, deploying sensors derived from multiple organisms to detect targets across a range of molecular types including small organics, RNAs, DNAs, proteins, sugars, and fats; producing amplified signals in response to detection of multiple targets via cytosolic signal processing and logic; or communicating with natural cells in the environment.
 
