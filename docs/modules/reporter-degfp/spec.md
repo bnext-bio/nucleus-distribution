@@ -74,7 +74,32 @@ A schematic representation of PURE converting template DNA into a fluorescent re
 
 ## Cells
 
+### Reference Composition
+
 Coming soon!
+
+### Expected Behavior
+
+Coming soon!
+
+### Protocols
+
+::::{grid} 1 1 1 2
+
+:::{card}
+:header: **Step-by-Step Protocol**
+:footer: *Implemented using Nucleus Cytosol v0.5*
+{button}`Download <module-protocol-cytosol-degfp.pdf>`
+:::
+
+:::{card}
+:header: **Materials**
+:footer: *Implemented using Nucleus Cytosol v0.5*
+:align: center
+{button}`Download <module-bom-reporter-degfp.pdf>`
+:::
+
+::::
 
 
 

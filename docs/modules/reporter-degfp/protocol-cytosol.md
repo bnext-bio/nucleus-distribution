@@ -11,6 +11,24 @@ exports:
 
 This protocol show you how to validate the functionality of the Reporter Module `pOpen-deGFP`.
 
+<!-- ## Stock Solutions
+
+:::{table} Reaction Setup.
+:name: rxn-setup
+
+| **Component** | **Cytosol + deGFP DNA [µL]** | **Cytosol - deGFP DNA [µL]** |
+| --- | --- | --- |
+| SMix | 10.5 | 10.5 |
+| tRNA | 3.5 | 3.5 |
+| PMix | 4.2 | 4.2 |
+| Ribosomes | 6.3 | 6.3 |
+| RNAse Inhibitor | 1.75 | 1.75 |
+| `pOpen-deGFP` DNA template | 0.85 | 0 |
+| Water | 7.9 | 8.75 |
+| Total master mix volume [µL] | 35 | 35 |
+
+::: -->
+
 ## Cytosol Reaction Setup
 
 :::{table} Reaction Setup.
@@ -29,9 +47,12 @@ This protocol show you how to validate the functionality of the Reporter Module 
 
 :::
 
+
 ## Protocol
 
-### Assemble Cytosol reactions
+### Prepare Stock Solutions
+
+### Assemble Cytosol Reactions
 - [ ]  Remove all components listed in the Reaction Setup table above from appropriate cold storage.
 - [ ]  Thaw reagents on ice.
 - [ ]  Prepare a PCR tube, on ice, to assemble reactions into.
