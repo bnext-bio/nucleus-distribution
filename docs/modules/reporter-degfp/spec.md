@@ -70,8 +70,6 @@ A schematic representation of PURE converting template DNA into a fluorescent re
 
 ::::
 
-### Supporting DevNotes
-
 ## Cells
 
 ### Reference Composition
