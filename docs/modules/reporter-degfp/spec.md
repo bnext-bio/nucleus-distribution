@@ -89,14 +89,14 @@ Coming soon!
 :::{card}
 :header: **Step-by-Step Protocol**
 :footer: *Implemented using Nucleus Cytosol v0.5*
-{button}`Download <module-protocol-cytosol-degfp.pdf>`
+{button}`Download <module-protocol-cells-degfp.pdf>`
 :::
 
 :::{card}
 :header: **Materials**
 :footer: *Implemented using Nucleus Cytosol v0.5*
 :align: center
-{button}`Download <module-bom-reporter-degfp.pdf>`
+{button}`Download <module-bom-cells-degfp.pdf>`
 :::
 
 ::::
