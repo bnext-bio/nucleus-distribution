@@ -1,65 +1,52 @@
 ---
 title: "Module Specification"
 subtitle: "Reporter: deGFP"
+thumbnail: schematic.png
 site:
     hide-toc: true
     numbered_references: false
 ---
 
-## Overview
+# Overview
 
 The deGFP Reporter Module produced deGFP, a green fluorescent protein.
 
-### Schematic
+:::::{tab-set}
 
+::::{tab-item} Schematic
 :::{figure} schematic.png
 :width: 40%
 :align: center
 
 A schematic representation of PURE converting template DNA into a fluorescent reporter.
 :::
+::::
 
-### Designs
-
+::::{tab-item} Designs
+:::{table}
 | **Name** | **Length (bp)** | **File** |
 | --- | --- | --- |
 | `pOpen-pT7-deGFP` | 2500 | [path-to-design-01.gb](https://github.com/bnext-bio/nucleus/blob/main/components/modules/detector/lacI.gb#L56-L66) |
+:::
+::::
+:::::
 
-### Reference Compositions
+## Cytosols
 
-:::::{tab-set}
+### Reference Composition
 
-::::{tab-item} Cytosol
 :::{table} This composition was evaluated in the DevNote by [](https://doi.org/10.63765/fppr8928)
 ![](xref:devnote-01#rc)
 :::
-::::
-
-::::{tab-item} Cells
-:::{table} This composition was evaluated in the DevNote by [](https://doi.org/10.63765/fppr8928)
-:label: RC
-:align: center
-| **Component** | **Stock Concentration** | **Final Concentration in Reaction** | 
-| --- | --- | --- |
-| PMix | 15 mg/mL | 1.8 mg/mL
-| SMix | 4X | 1X |
-| Ribosomes | 10 $\mu$M | 1.8 $\mu$M |
-| tRNA | *varies* | 3.5 mg/mL |
-| pOpen-deGFP | *varies* | 3 nM |
-| Magnesium acetate | 200 mM | *varies* |
-:::
-::::
-
-:::::
 
 ### Expected Behavior
 
 ::::{tab-set}
-:::{tab-item} Cytosols - Kinetics
+:::{tab-item} Kinetics
 ![](xref:devnote-01#fig:kinetics-exp1)
 :::
 
-:::{tab-item} Cytosols - Endpoint
+:::{tab-item} Endpoint
 ![](xref:devnote-01#fig:endpoint-exp1)
 :::
 ::::
@@ -69,23 +56,25 @@ A schematic representation of PURE converting template DNA into a fluorescent re
 ::::{grid} 1 1 1 2
 
 :::{card}
-:header: **Cytosols**
+:header: **Step-by-Step Protocol**
 :footer: *Implemented using Nucleus Cytosol v0.5*
-{button}`Download <roles.md>`
+{button}`Download <module-protocol-cytosol-degfp.pdf>`
 :::
 
 :::{card}
-:header: **Cells**
+:header: **Materials**
 :footer: *Implemented using Nucleus Cytosol v0.5*
 :align: center
-{button}`Download <roles.md>`
+{button}`Download <module-bom-reporter-degfp.pdf>`
 :::
 
 ::::
 
 ### Supporting DevNotes
 
+## Cells
 
+Coming soon!
 
 
 
