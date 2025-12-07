@@ -50,7 +50,7 @@ Flow chart for building Base Cytosol and its modification through the addition o
 
 ### Modify Base Cytosol
 
-- [Reporter: Base Cytosol + deGFP](./assemble-cytosol-from-kit/process-assemble_cytosol_from_kit.md)
+- [Assemble Base Cytosol](./assemble-base-cytosol/main.md)
 - [Energy: Base Cytosol + PPK]()
 
 ### Make Base Cytosol
