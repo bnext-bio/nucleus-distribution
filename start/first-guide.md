@@ -1,16 +1,53 @@
 ---
 title: From Zero to DevNote
+subtitle: A Beginner's Tutorial to the Nucleus Technology Stack
 ---
 
 # Overview
 
-The purpose of this page is to guide a newcomer through the complete Nucleus technology stack and workflows from making base cytosol to posting a Developer Note (DevNote) that reports on it's performance. Since this is likely the first Nucleus Guide you have encourntered, it will walk through every step with a significant amount of detail. In general, guides tie together documentation from across the site into useful workflows.
+The purpose of this tutorial is to guide a newcomer through the complete Nucleus technology stack and supporting workflows. 
 
-## Making Base Cytosol
+At the end of this tutorial you will have used the Protocols in the Distribution to assemble Base Cytosol, characterize its performance using the Cell Development Kit (CDK) on Nucleus Hub, and finally post a Developer Note (DevNote) that reports on its performance. 
 
-There are many different ways to make the base cytosol. This distribution includes documentation for making it yourself from scratch. An open-formulation version can also be obtained from b.next. Since the goal of this guide is provide detailed introduction to the whole Nucleus Workflow, we'll start with the Base Cytosol Kit. 
+This tutorial assumes that you have the necessary components of Base Cytosol: small molecule mix, tRNA, protein mix, ribosomes, and a suitable reporter plasmid such as `pOpen-deGFP`. The components of Base Cytosol can be obtained in two ways: you can make them yourself from scratch, or you can acquire a premade reagent kit from b.next. 
 
-- Make Base Cytosol from Kit
+If you are looking to get started quickly, we recommend acquiring a kit from b.next. If you prefer more control over the cytosolic system, the distribution contains materials, protocols, and documentation for making your own components from scratch. 
+
+<!-- The purpose of this page is to guide a newcomer through the complete Nucleus technology stack and workflows, from assembling Base Cytosol and characterizing its performance using the Cell Development Kit (CDK) on Nucleus Hub, to finally posting a Developer Note (DevNote) that reports on its performance. -->
+
+
+<!-- Since this is likely the first Nucleus Guide you have encourntered, it will walk through every step with a significant amount of detail. In general, guides tie together documentation from across the site into useful workflows. -->
+
+# Using the Distribution as a knowledge base
+
+The Distribution contains numerous validated protocols and other documentation organized across four different categories: DNA Distribution, Processes, Modules, and Implementations. Assembling Base Cytosol is regarded as a fundamental process in the Distribution, so protocols and documentation for its assembly can be found in the [Processes]() section. We recommend exploring the four Protocol category pages to get a sense for how the documentation is organized.
+
+Now that we're more oriented in the documentation let's navigate to the protocol we'd like to implement:
+
+- [Assemble Base Cytosol]()
+
+If you follow the steps on that page, you should find yourself with some data in hand ready to be analyzed. Rather than firing up Excel or opening a Google Sheet, we're going to sign into Nucleus Hub. 
+
+
+## Analyzing Data with Nucleus Hub
+
+
+
+<!-- In contrast, Modules extend the functionality of fundamental processes.  -->
+
+
+
+<!-- The components of Base Cytosol can be obtained by either making them yourself or as a premade reagent kit. This distribution includes documentation for making Base Cytosol yourself from scratch. A same-formulation Base Cytosol can also be obtained as a kit from b.next.  -->
+
+<!-- This tutorial assumes that you have the necessary components of Base Cytosol: small molecule mix, tRNA, protein mix, ribosomes, and a suitable reporter plasmid such as `pOpen-deGFP`. The components of Base Cytosol can be obtained in two ways: you can make them yourself from scratch, or you can purchase a premade reagent kit from b.next. This documentation includes instructions for making Base Cytosol yourself. 
+
+This tutorial assumes that you have the necessary components of Base Cytosol: small molecule mix, tRNA, protein mix, ribosomes, and a suitable reporter plasmid such as `pOpen-deGFP`. These components can be obtained by making them yourself from scratch (as covered in this documentation) or by purchasing a premade reagent kit from b.next. -->
+
+
+
+<!-- This distribution includes documentation for making it yourself from scratch. An open-formulation version can also be obtained from b.next. Since the goal of this guide is provide detailed introduction to the whole Nucleus Workflow, we'll start with the Base Cytosol Kit.  -->
+
+- [Assemble Base Cytosol]()
 
 If you follow the steps on that page, you shoud find yourself with some data in hand ready to be analyzed. Rather firing up Excel or opening a Google Sheet, we're going to sign into Nucleus Hub. 
 
