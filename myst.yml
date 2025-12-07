@@ -36,7 +36,7 @@ project:
              hidden: true
            - file: ./docs/processes/make-trna/process-make_trnas.md
              hidden: true 
-           - file: ./docs/processes/assemble-cytosol-from-kit/process-assemble_cytosol_from_kit.md
+           - file: ./docs/processes/assemble-base-cytosol/main.md
              hidden: true 
            - file: ./docs/processes/make-test/process-make_test.md
              hidden: true
