@@ -41,7 +41,7 @@ A schematic representation of PURE converting template DNA into a fluorescent re
 
 ### Expected Behavior
 
-:::::{tab-set}
+<!-- :::::{tab-set}
 ::::{tab-item} Kinetics
 :::{figure}
 ![](xref:devnote-01#fig:kinetics-exp1)
@@ -53,7 +53,22 @@ A schematic representation of PURE converting template DNA into a fluorescent re
 ![](xref:devnote-01#fig:endpoint-exp1)
 :::
 ::::
+::::: -->
+
+:::::{tab-set}
+::::{tab-item} Kinetics
+:::{figure} cytosol-kinetics.png
+Translation kinetics of Cytosol and PURExpress reactions using two different pOpen-deGFP DNA preps. Cytosol w/o DNA refers to the Cytosol reaction lacking the pOpen-deGFP template. Data from [](https://doi.org/10.63765/fppr8928).
+:::
+::::
+
+::::{tab-item} Endpoint
+:::{figure} cytosol-endpoint.png
+Final protein yields of the reactions measured at steady state. Data from [](https://doi.org/10.63765/fppr8928).
+:::
+::::
 :::::
+
 
 ### Protocols
 
