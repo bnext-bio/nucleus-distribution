@@ -58,9 +58,16 @@ Figure: This is my caption
 
 # Authoring the DevNote
 
-
+The DevNote template contains documentation describing how to author your first DevNote. Please take a look at the `README.md` and `main.md` which contains the markdown of a DevNote that describes how to make a DevNote.
 
 # Review and submission
 
-- Preview your DevNote
-- Submit your DevNote
+When you're DevNote is ready for submission, you can preview how it will look on the Developer Notes site:
+
+- [ ] Preview DevNote on deployment server
+  - [ ] While you're in the `devnotes/template` directory, click the button "Preview" in the "Developer Notes" toolbar of the Launcher window.
+  - [ ] Click the URL link at the end of the terminal output. 
+
+- [ ] Submit DevNote for posting
+  - [ ] While you're in the `devnotes/template` directory, click the button "Submit" in the "Developer Notes" toolbar of the Launcher window.
+  - [ ] Someone from the Nucleus Core developer team will be in touch with you soon. 
