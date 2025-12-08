@@ -61,19 +61,25 @@ Nucleus Hub is an interactive computing platform built on Jupyter Hub. Software 
 
 Documentation for Nucleus Hub can be found in Guides. Guides the place to find tutorials that walk you through different aspects of the documentation. This page is an example of one such tutorial. We recommend exploring the Guides pages to get a sense for how the documentation is organized.
 
-
+You may have found a Guide for getting started with Nucleus Hub. Be sure to take a look at that page and familiarize yourself with the platform. 
 
 - [Getting Started with Nucleus Hub](../guides/nucleus-hub/nucleus-hub.md)
 
-If you followed the steps on that page, you should not find yourself with a Nucleus Hub account and some nice looking plots. Let's tell the Nucleus Community what you've been up to and write up a DevNote.
+Now we can use the CDK tools to analyze our data in Nucleus Hub. You may have already found it but there isa  guide for that as well.
+
+- []()
+
+If you followed the steps on that page, you should now find yourself with a Nucleus Hub account and some nice looking plots. Let's tell the Nucleus Community what you've been up to and write up a DevNote.
 
 ## Sharing your results as a Developer Note
 
 Nucleus is open source which means that we're building something together. Developer Notes are the key way to contribute to the Nucleus Distribution and gain legend status in the community. Developer Notes are conveniently built ontop of Jupyter Notebooks and MyST Markdown (a flavor of markdown designed for technical communication). Since you've done your analysis in a Jupyter Notebook, you've already half-written your DevNote and you didn't even know it. 
 
-- Writing your first Developer Note
+- [Writing your first Developer Note](../guides/devnote-tutorial.md)
 
-If you followed the steps on that page, you should have successfully posted a Developer Note. Not only does your data help us understand how good you are preparing base cytosols (and how well our reagents are performing), it helps expand the largest on-going interlab study on the expression of plamGFP. It also introduces you to the Developer Community, in a uniquely Nucleus Way. 
+If you followed the steps on that page, you should have successfully posted a Developer Note. 
+
+<!-- Not only does your data help us understand how good you are preparing base cytosols (and how well our reagents are performing), it helps expand the largest on-going interlab study on the expression of deGFP. It also introduces you to the Developer Community, in a uniquely Nucleus Way.  -->
 
 ## Engage with the community on the Nucleus Forum
 
