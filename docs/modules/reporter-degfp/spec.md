@@ -92,7 +92,50 @@ Final protein yields of the reactions measured at steady state. Data from [](htt
 
 ### Reference Composition
 
-Coming soon!
+:::::{tab-set}
+
+::::{tab-item} Cytosol
+
+:::{table}
+:::
+| Component | Input concentration | Unit | Final concentration | Unit | Volume for one reaction [µL] |
+| --- | --- | --- | --- | --- | --- |
+| SMix | 3.33 | × | 1 | × | 12 |
+| PMix | 15 | mg/mL | 1.80 | mg/mL | 4.8 |
+| Ribosomes | 10 | µM | 1.8 | µM | 7.2 |
+| `pOpen-deGFP` DNA | 124 | nM | 3 | nM | 0.95 |
+| tRNA | 35 | mg/ml | 3.5 | mg/ml | 4 |
+| Magnesium acetate | 200 | mM | 8 | mM | 1.6 |
+| Optiprep | 1.32 | mg/uL | 0.043 | mg/uL | 1.33 |
+| RNase Inhibitor | 40000 | U/mL | 2000 | U/mL | 2 |
+| Water |  |  |  |  | 6.12 |
+| Total volume [µL] |  |  |  |  | 40 |
+::::
+
+::::{tab-item} Membrane
+:::{table}
+
+| Component | Target Percentage (%) | Molecular Weight (g/mol) | Stock concentration (mg/mL) | Volume to add (uL) |
+| --- | --- | --- | --- | --- |
+| POPC | 70 | 760.076 | 25 | 162.17 |
+| Cholesterol | 29.95 | 386.654 | 50 | 17.65 |
+| Liss-Rhod PE | 0.05 | 1301.71 | 1 | 4.96 |
+
+:::
+::::
+
+::::{tab-item} Outer Solution
+
+:::{table}
+| Component | Concentration |
+| --- | --- |
+| Glucose | 850 mM |
+:::
+
+::::
+
+
+:::::
 
 ### Expected Behavior
 
