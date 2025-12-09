@@ -30,9 +30,7 @@ Module Specifications contain the following information:
 | --- | --- | --- | --- |
 | Reporter | [plamGFP](./reporter-plamgfp/spec.md) | PURExpress Cell | Distribution |
 |  | [deGFP](./reporter-degfp/spec.md) | **Nucleus Cytosol;** PURExpress Cell | Distribution |
-| Membrane | POPC | PURExpress Cell | Distribution |
-|  | POPC/Chol | PURExpress Cell | Distribution |
-|  | EggPC | PURExpress Cell | Distribution |
+| Membrane | POPC/Chol | PURExpress Cell | Distribution |
 | Membrane Pore | [alpha-Hemolysin](./membrane-pore-ahly/spec.md) | PURExpress Cell  | Distribution |
 |  | [Cx43](./membrane-pore-cx43/spec.md) | PURExpress Cell | DevNote |
 | Detector | [tetR-aTc](./detector-tetr_atc/spec.md) | PURExpress Cell | Distribution |
