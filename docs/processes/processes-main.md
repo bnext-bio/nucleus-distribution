@@ -26,7 +26,7 @@ The base cytosol module implements transcription and translation powered by crea
 
 - [Make Amino Acid Mix](./make-amino-acid-mix/process-make_amino_acid_mix.md)
 - [Make Small Molecule Mix](./make-small-molecule-mix/process-make_small_molecule_mix.md)
-- [Make tRNAs](./make-trna/process-make_trnas.md)
+- [Make tRNAs](./make-trna/main.md)
 - [Make Ribosomes](./make-ribosomes/process-make_ribosomes.md)
 - [Make PMix - 1 Pot]()
 - [Make PMix - 36 Pot]()
