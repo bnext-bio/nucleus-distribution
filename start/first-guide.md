@@ -57,23 +57,23 @@ This tutorial assumes that you have the necessary components of Base Cytosol: sm
 
 ## Analyzing Data with Nucleus Hub
 
-Nucleus Hub is an interactive computing platform built on Jupyter Hub. Software tools are essential for getting are work done and sharing results. Nucleus Hub provides a way of accessing software tools that just work. No installs, no compiling, no environmental management. Of course if you want to modify your own environments and build code, that's supported as well. The Nucleus CDK lives on [GitHub](), but the Hub is preconfigured to get you up and running without any additional work. And there's templates. 
+Nucleus Hub is an interactive computing platform built on JupyterHub. Software tools are essential for getting work done and sharing results. Nucleus Hub provides a way of accessing software tools that just work. No installs, no compiling, no environmental management. Of course if you want to modify your own environments and build code, that's supported as well. The Nucleus CDK lives on [GitHub](), but the Hub is preconfigured to get you up and running without any additional work. And there's templates. 
 
-Documentation for Nucleus Hub can be found in Guides. Guides the place to find tutorials that walk you through different aspects of the documentation. This page is an example of one such tutorial. We recommend exploring the Guides pages to get a sense for how the documentation is organized.
+Documentation for Nucleus Hub can be found in Guides. Guides are the place to find tutorials that walk you through different aspects of the documentation. This page is an example of one such tutorial. We recommend exploring the Guides pages to get a sense for how the documentation is organized.
 
-You may have found a Guide for getting started with Nucleus Hub. Be sure to take a look at that page and familiarize yourself with the platform. 
+You will find a Guide for getting started with Nucleus Hub. Be sure to take a look at that page and familiarize yourself with the platform. 
 
 - [Getting Started with Nucleus Hub](../guides/nucleus-hub/nucleus-hub.md)
 
-Now we can use the CDK tools to analyze our data in Nucleus Hub. You may have already found it but there isa  guide for that as well.
+Now that you are setup and familiar with Nucleus Hub, we can use the CDK tools to analyze data in Nucleus Hub. You will also find a guide for that as well:
 
-- []()
+- [Tutorial: analyzing platereader data with the CDK](../guides/platereader_tutorial.md)
 
-If you followed the steps on that page, you should now find yourself with a Nucleus Hub account and some nice looking plots. Let's tell the Nucleus Community what you've been up to and write up a DevNote.
+After working through these tutorials, you'll have a Nucleus Hub account and some compelling visualizations. Consider documenting your work by writing a DevNote to share with the Nucleus community.
 
 ## Sharing your results as a Developer Note
 
-Nucleus is open source which means that we're building something together. Developer Notes are the key way to contribute to the Nucleus Distribution and gain legend status in the community. Developer Notes are conveniently built ontop of Jupyter Notebooks and MyST Markdown (a flavor of markdown designed for technical communication). Since you've done your analysis in a Jupyter Notebook, you've already half-written your DevNote and you didn't even know it. 
+Nucleus is open source which means that we're building something together. Developer Notes are the key way to contribute to the Nucleus Distribution. Developer Notes are conveniently built on top of Jupyter Notebooks and MyST Markdown (a flavor of markdown designed for technical communication). Since you've done your analysis in a Jupyter Notebook, you've already half-written your DevNote and you didn't even know it. 
 
 - [Writing your first Developer Note](../guides/devnote-tutorial.md)
 
@@ -92,7 +92,7 @@ Once a DevNote goes live, a thread is opened on the Forum for others to discuss.
 
 <!-- Well, not quite. To be a proper Nucleus Developer, you should probably have developed something. But don't fret, you're well on your way.  -->
 
-You are now in command of a growing collection of validated Modules that you can build ontop of and equipped with the tools to analyze and share them. If you Develop something useful or something on the Nucleus Roadmap you should keep in mind the Nucleus Contribution Standards, they are the things you should keep in mind as you go about your work so that it'll end up as part of the distribution. 
+You are now in command of a growing collection of validated Modules that you can build on top of and equipped with the tools to analyze and share them. If you Develop something useful or something on the Nucleus Roadmap you should keep in mind the Nucleus Contribution Standards, they are the things you should keep in mind as you go about your work so that it'll end up as part of the distribution. 
 
 - [Nucleus Distribution Contribution Guide](/guides/contribution-guide.md)
 

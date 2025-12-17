@@ -34,7 +34,7 @@ The Nucleus Distribution is part of the broader Nucleus Ecosystem, which also in
 
 ## Get started
 
-If you're new to Nucleus, check out [From Zero to DevNote](). That guide will walk you through the documentation.
+If you're new to Nucleus, check out [From Zero to DevNote](./start/first-guide.md). That guide will walk you through the documentation.
 
 ## Protocols
 

@@ -16,8 +16,8 @@ Tutorials are a type of Guide that tie together documentation into useful groups
 - [Nucleus Hub](./nucleus-hub/nucleus-hub.md)
 <!-- - Getting Started with Nucleus Hub
 - Understanding the CDK
-- Workbook Templates
-- [Tutorial: analyzing platereader data with the CDK](./platereader_tutorial.ipynb) -->
+- Workbook Templates -->
+- [Tutorial: analyzing platereader data with the CDK](./platereader_tutorial.md)
 
 ## Developer Notes
 
