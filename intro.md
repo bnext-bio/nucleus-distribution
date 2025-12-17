@@ -8,14 +8,14 @@ site:
 :::{warning}
 :class: simple
 
-This site is under heavy development and things maybe incomplete, contain errors, or otherwise not work as expected!
+This site is under heavy development and things may be incomplete, contain errors, or otherwise not work as expected.
 :::
 
 # Overview
 
 The Nucleus Distribution allows you to implement an open standard for constructing synthetic cells based on Nucleus Cytosol, an open forumulation version of the PURE system. 
 
-The Distribution includes validated protocols, genetic constructs, software tools, datasets, and biological materials that are designed to work, and work together. All components of the Distribution are open source, allowing anyone to use and modify the components. As an open source project, the Distribution enabling the collaborative development of synthetic cells of increasing complexity. 
+The Distribution includes validated protocols, genetic constructs, software tools, datasets, and biological materials that are designed to work, and work together. All components of the Distribution are open source, allowing anyone to use and modify the components. The Documentation serves as a knowledge base for enabling collaborative development of synthetic cells of increasing complexity.
 
 :::{figure} ./flowchart-4.png
 **The Nucleus Development Cycle.** All components of the Nucleus platform work together to support the collaborative development of increasingly reliable and sophisticated synthetic cells contained within the Distribution. The **Documentation** (this site) is a knowledge base that contains protocols and  documentation for implementing validated synthetic cell modules. The **Hub** provides a resource for data sharing, analysis using standard digital tools. Useful results can be shared with the community as **DevNotes**. DevNotes can be viewed on the **Developer Note** website. Periodically, contributions made as Devnotes are integrated into the Distribution as validated protocols for others to use and build upon. All components of the platform can be discussed at the **Forum**, come say hello!
@@ -34,7 +34,7 @@ The Nucleus Distribution is part of the broader Nucleus Ecosystem, which also in
 
 ## Get started
 
-If you're new to Nucleus, checkout [From Zero to DevNote](). That guide will walk you through the documentation.
+If you're new to Nucleus, check out [From Zero to DevNote](). That guide will walk you through the documentation.
 
 ## Protocols
 
@@ -53,13 +53,13 @@ Physical materials that are used to implement Processes and Modules.
 :::{card}
 :header: ⚙️ **Processes**
 :link: docs/processes/processes-main.md
-Processes are core protocols for implementing base cytosol and cells.
+Processes are core protocols for implementing Base Cytosol and Cells.
 :::
 
 :::{card}
 :header: 🧱 **Modules**
 :link: docs/modules/modules-main.md
-Modules extend the functionality of base cytosol and cells.
+Modules extend the functionality of Base Cytosol and Cells.
 :::
 
 :::{card}
