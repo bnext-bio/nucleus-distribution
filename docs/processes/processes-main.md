@@ -42,7 +42,7 @@ The base cytosol module implements transcription and translation powered by crea
 ### Quality Control Processes
 
 - [Protein Gel](./protein-gel/main.md)
-- [Pierce660 Assay]()
+- [Pierce660 Assay](./pierce660/main.md)
 - [BCA Assay]()
 
 ## Base Cell Processes
