@@ -41,7 +41,7 @@ The base cytosol module implements transcription and translation powered by crea
 
 ### Quality Control Processes
 
-- [Protein Gel]()
+- [Protein Gel](./protein-gel/main.md)
 - [Pierce660 Assay]()
 - [BCA Assay]()
 
@@ -67,14 +67,7 @@ Flow chart for building Base Cell and its modification through the addition of M
 
 :::::
 
-
-
-- [Reporter: Base Cell + deGFP](./assemble-base-cell/process-make_base_cell.md)
-- []
-
-### Modify Base Cell
-
-### Make Base Cell
+- [Base Cell](./assemble-base-cell/process-make_base_cell.md)
 
 
 <!-- # Overview
