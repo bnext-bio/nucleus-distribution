@@ -35,7 +35,11 @@ project:
            - file: ./docs/processes/make-ribosomes/process-make_ribosomes.md
              hidden: true
            - file: ./docs/processes/make-trna/main.md
-             hidden: true 
+             hidden: true
+           - file: ./docs/processes/make-36pot/main.md
+             hidden: true
+           - file: ./docs/processes/make-1pot/main.md
+             hidden: true
            - file: ./docs/processes/assemble-base-cytosol/main.md
              hidden: true 
            - file: ./docs/processes/make-test/process-make_test.md
