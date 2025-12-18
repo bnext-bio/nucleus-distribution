@@ -25,7 +25,6 @@ Flow chart for building Base Cytosol and its modification through the addition o
 ### Modify Base Cytosol
 
 - [Assemble Base Cytosol](./assemble-base-cytosol/main.md)
-- [Energy: Base Cytosol + PPK]()
 
 ### Make Base Cytosol
 
@@ -36,14 +35,13 @@ The base cytosol module implements transcription and translation powered by crea
 - [Make tRNAs](./make-trna/main.md)
 - [Make Ribosomes](./make-ribosomes/process-make_ribosomes.md)
 - [Make PMix - 1 Pot]()
-- [Make PMix - 36 Pot]()
+- [Make PMix - 36 Pot](./make-36pot/main.md)
 
 
 ### Quality Control Processes
 
 - [Protein Gel](./protein-gel/main.md)
 - [Pierce660 Assay](./pierce660/main.md)
-- [BCA Assay]()
 
 ## Base Cell Processes
 

@@ -12,6 +12,8 @@ Ribosomes are large complexes of RNA and proteins (MW ~2.7 MDa) that are the sit
 Please read this section carefully. It contains important notes, resources, and safety information. Not all information included here is included in the lab-ready protocol.
 
 :::{note} Notes
+:icon: false
+:class: simple
 :class: dropdown
 
 - We purify RNAs and Riboproteins from *E. coli* A19 biomass ([CGSC 5997](https://ecgrc.net/index.php/product/a19/)), a strain with a mutation in RNase I that improves RNA yields. You can use other RNase deficient strains with this protocol, but you may need to optimize this protocol to achieve high yield and purity.
@@ -20,7 +22,7 @@ Please read this section carefully. It contains important notes, resources, and 
 
 :::::{card}
 :header: **Resources**
-::::{grid} 1 1 1 3
+::::{grid} 1 1 1 1
 
 :::{card}
 :header: **Lab-ready Protocol**
@@ -35,7 +37,7 @@ Please read this section carefully. It contains important notes, resources, and 
 :::
 
 :::{card}
-:header: **TODO: Bill of Materials**
+:header: **Bill of Materials**
 {button}`download <protocol-Make_tRNAs.pdf>`
 :::
 
@@ -43,6 +45,8 @@ Please read this section carefully. It contains important notes, resources, and 
 :::::
 
 :::::{tip} Composition
+:icon: false
+:class: simple
 :class: dropdown
 
 ::::{card}
@@ -60,23 +64,29 @@ Please read this section carefully. It contains important notes, resources, and 
 :::::
 
 :::{seealso} Prerequesite Documentation
+:icon: false
+:class: simple
 :class: dropdown
 - None
 
 :::
 
 ::::{important} Critical Materials
+:icon: false
+:class: simple
 :class: dropdown
 
 :::{table}
 :label: tbl:critical-materials
 :align: center
 
-TODO
+- A19 *e. coli*
 
 ::::
 
 ::::{important} Genetically Encoded Components
+:icon: false
+:class: simple
 :class: dropdown
 
 - None
@@ -84,6 +94,8 @@ TODO
 ::::
 
 ::::{danger} Hazardous Materials
+:icon: false
+:class: simple
 :class: dropdown
 
 - None
@@ -97,6 +109,7 @@ TODO
 ## Cell culture
 
 :::{hint} Note: you can work from glycerol stocks OR colonies.
+:icon: false
 :class: dropdown
 We first need to prepare bacterial cultures. We will work from 6 mL overnight cultures of our expression strains and backdilute them the next day. In order to prepare these overnight cultures, we need stocks of bacteria.
 
@@ -134,6 +147,7 @@ Optionally, you can work from individual colonies by streaking out your bacteria
 ## FPLC purification
         
 ::::{hint} Note: line configuration on FPLC.
+:icon: false
 :class: dropdown
 :::{table}
 | Line | Buffer |
@@ -178,6 +192,7 @@ Optionally, you can work from individual colonies by streaking out your bacteria
 - [ ]  Discard the supernatant. Carefully, wash each pellet with 0.5 mL cold ribosome buffer. Repeat this step twice.
 
 ::::{hint} Note: Don’t disturb the ribosome pellet during washing.
+:icon: false
 :class: dropdown
 The ribosome pellet is fairly compact and stable, but some ribosomes can get resuspended during washing and be lost in the process. Be careful! 
 
